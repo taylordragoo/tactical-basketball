@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\TaylorBAMF\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\TaylorBAMF\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_TacticalBasketball.-931538770.00" t="ExcludeRecursive" />
+    <e p="C:\Users\TaylorBAMF\Documents\Unity3d\TacticalBasketball" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="GridGeneratorInspector.cs" t="Include" />
+          <e p="ScriptableObjectUtility.cs" t="Include" />
+        </e>
+        <e p="ProCore" t="Include">
+          <e p="ProGrids" t="Include">
+            <e p="About" t="Include">
+              <e p="changelog.txt" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="pg_AboutWindow.cs" t="Include" />
+              </e>
+              <e p="pc_AboutEntry_ProGrids.txt" t="Include" />
+            </e>
+            <e p="Classes" t="Include">
+              <e p="pg_Constant.cs" t="Include" />
+              <e p="pg_Enum.cs" t="Include" />
+              <e p="pg_IconUtility.cs" t="Include" />
+              <e p="pg_IgnoreSnapAttribute.cs" t="Include" />
+              <e p="pg_SceneMeshRender.cs" t="Include" />
+              <e p="pg_Util.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="pg_Editor.cs" t="Include" />
+              <e p="pg_GridRenderer.cs" t="Include" />
+              <e p="pg_ParameterWindow.cs" t="Include" />
+              <e p="pg_Preferences.cs" t="Include" />
+              <e p="pg_ToggleContent.cs" t="Include" />
+            </e>
+            <e p="MonoBehaviour" t="Include">
+              <e p="pg_IgnoreSnap.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="pg_GridShader.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraRig.cs" t="Include" />
+          <e p="Common" t="Include">
+            <e p="Animation" t="Include">
+              <e p="EasingControl.cs" t="Include" />
+              <e p="EasingEquations.cs" t="Include" />
+              <e p="RectTransformAnchorPositionTweener.cs" t="Include" />
+              <e p="RectTransformAnimationExtensions.cs" t="Include" />
+              <e p="TransformAnimationExtensions.cs" t="Include" />
+              <e p="TransformLocalEulerTweener.cs" t="Include" />
+              <e p="TransformLocalPositionTweener.cs" t="Include" />
+              <e p="TransformPositionTweener.cs" t="Include" />
+              <e p="TransformScaleTweener.cs" t="Include" />
+              <e p="Tweener.cs" t="Include" />
+              <e p="Vector3Tweener.cs" t="Include" />
+            </e>
+            <e p="NotificationCenter" t="Include">
+              <e p="NotificationCenter.cs" t="Include" />
+              <e p="NotificationExtension.cs" t="Include" />
+            </e>
+            <e p="StateMachine" t="Include">
+              <e p="State.cs" t="Include" />
+              <e p="StateMachine.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="LayoutAnchor.cs" t="Include" />
+              <e p="Panel.cs" t="Include" />
+              <e p="PanelTests.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Directions.cs" t="Include" />
+          <e p="DirectionsExtensions.cs" t="Include" />
+          <e p="Exceptions" t="Include">
+            <e p="AddValueModifier.cs" t="Include" />
+            <e p="BaseException.cs" t="Include" />
+            <e p="ClampValueModifier.cs" t="Include" />
+            <e p="GameObjectExtensions.cs" t="Include" />
+            <e p="MatchException.cs" t="Include" />
+            <e p="MaxValueModifier.cs" t="Include" />
+            <e p="MinValueModifier.cs" t="Include" />
+            <e p="Modifier.cs" t="Include" />
+            <e p="MultDeltaModifier.cs" t="Include" />
+            <e p="MultValueModifier.cs" t="Include" />
+            <e p="ValueChangeException.cs" t="Include" />
+            <e p="ValueModifier.cs" t="Include" />
+          </e>
+          <e p="GameController.cs" t="Include" />
+          <e p="GameState.cs" t="Include" />
+          <e p="Grid.cs" t="Include" />
+          <e p="GridGenerator.cs" t="Include" />
+          <e p="InfoEventArgs.cs" t="Include" />
+          <e p="InitGameState.cs" t="Include" />
+          <e p="InputController.cs" t="Include" />
+          <e p="LevelData.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Point.cs" t="Include" />
+          <e p="Tile.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="TacticalBasketball.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
